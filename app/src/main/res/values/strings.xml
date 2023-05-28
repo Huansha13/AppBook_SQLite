@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">appBook_SQLite</string>
+    <string name="no_data">No hay Libros.</string>
+    <string name="val_id_libro">1</string>
+    <string name="val_titulo_libro">Titulo 1</string>
+    <string name="val_autor_libro">Autor 1</string>
+    <string name="val_paginas_libro">120</string>
+    <string name="hint_titulo">Titulo del libro</string>
+    <string name="hint_autor">Autor del libro</string>
+    <string name="hint_num_paginas">Numero paginas del libro</string>
+    <string name="menu_item_eliminar_todo">Eliminar Todo</string>
+    <string name="btn_apdate_libro">Actualizar</string>
+    <string name="btn_add_libro">Agregar Libro</string>
+    <string name="btn_delete_libro">Eliminar</string>
+</resources>
